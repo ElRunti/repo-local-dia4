@@ -6,6 +6,6 @@
 
 - listas
 
-hola como estan pipol
+hola como estan pipol, el cambio de elimianr onta?
 
 1. listas numeradas
